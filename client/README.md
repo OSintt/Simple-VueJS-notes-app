@@ -1,4 +1,4 @@
-# client
+# Simple VueJS notes app
 
 > Simple to do(s) app made with Vue.js and Bootstrap
 
