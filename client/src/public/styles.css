@@ -1,0 +1,31 @@
+h2 {
+	font-size: small;
+	font-family: Helvetica;
+}
+.card {
+	padding: 10px;
+	width: 250px;
+	text-align: center;
+	margin: 0;
+}
+.boton-cross {
+	background: transparent;
+	border-radius: 50%;
+	border: 1px solid red;
+	padding: 5px 10px;
+}
+.boton-tick {
+	background: transparent;
+	border-radius: 50%;
+	border: 1px solid green;
+	padding: 5px 10px;
+}
+input {
+	max-width: 250px;
+}
+.boton-tick:hover {
+	background-color: lightgreen;
+}
+.boton-cross:hover {
+	background-color: pink;
+}
